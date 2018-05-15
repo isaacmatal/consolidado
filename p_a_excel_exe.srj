@@ -1,0 +1,17 @@
+HA$PBExportHeader$p_a_excel_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:a_excel.exe,a_excel.pbr,0,1,0
+CMP:0,0,0,2,0,0,1
+COM:Sybase, Inc.
+DES:Escribir en Excel
+CPY:Isaac Matal
+PRD:Excel writer
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:a_excel.pbl,,0
+OBJ:c:\users\isaac\documents\reportes semanales\a_excel.pbl,w_excel,w
+OBJ:c:\users\isaac\documents\reportes semanales\a_excel.pbl,dw_valores_consolidado,d
+OBJ:C:\Users\isaac\Documents\Reportes semanales\a_excel.pbl,a_excel,a
