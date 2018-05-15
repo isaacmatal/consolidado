@@ -1,0 +1,12 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "a_excel.pbl" "";
+@end;
+@begin Objects
+ "dw_valores_consolidado.srd" "a_excel.pbl";
+ "p_a_excel_exe.srj" "a_excel.pbl";
+ "dw_costo_vta_bodega_consolidado.srd" "a_excel.pbl";
+ "a_excel.sra" "a_excel.pbl";
+ "dw_toneladas_consolidado.srd" "a_excel.pbl";
+ "w_excel.srw" "a_excel.pbl";
+@end;
